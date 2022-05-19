@@ -8,7 +8,6 @@ from os import path
 
 # saver.restore(DQN.sess, "model.ckpt")
 
-
 def train(RL):
     startTime = time.time()
 

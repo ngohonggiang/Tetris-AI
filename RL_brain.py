@@ -1,8 +1,3 @@
-"""
-Using:
-Tensorflow: 1.0
-gym: 0.7.3
-"""
 
 import numpy as np
 import tensorflow as tf
